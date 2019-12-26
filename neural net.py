@@ -23,7 +23,7 @@ y = np.array([[0],
              [1],
              [0]])
 
-# creation of synapases
+# creation of synapses
 s0 = 2*np.random.random((3,4)) - 1 # 3x4 matrix, and 1 is our bias
 s1 = 2*np.random.random((4,1)) - 1 # 4 nodes 1 output
 

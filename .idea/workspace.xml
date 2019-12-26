@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="983275e7-2be2-4b38-967f-4f68a1c00719" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tensorflow neural net" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neural net.py" beforeDir="false" afterPath="$PROJECT_DIR$/neural net.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,49 @@
       <recent name="E:\Google Drive\Code\Python\Neural Net" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.neural net">
+  <component name="RunManager" selected="Python.neural net (1)">
+    <configuration name="Tensorflow neural net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural Net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ruair\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tensorflow neural net" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neural net (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural Net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ruair\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/neural net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="neural net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Neural Net" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -75,6 +119,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.neural net (1)" />
+        <item itemvalue="Python.Tensorflow neural net" />
         <item itemvalue="Python.neural net" />
         <item itemvalue="Python.scratch.py" />
       </list>
@@ -110,10 +156,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="184" key="#Neural_Net.py/0.0.1920.1040@0.0.1920.1040" timestamp="1577367233880" />
+    <state x="1109" y="139" key="#Tensorflow_neural_net" timestamp="1577374413028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1109" y="139" key="#Tensorflow_neural_net/0.0.1920.1040@0.0.1920.1040" timestamp="1577374413028" />
+    <state x="1105" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577374325008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1105" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577374325008" />
     <state x="1171" y="139" key="#neural_net" timestamp="1577369240530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1171" y="139" key="#neural_net/0.0.1920.1040@0.0.1920.1040" timestamp="1577369240530" />
+    <state x="691" y="135" key="#neural_net_(1)" timestamp="1577375249258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="135" key="#neural_net_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1577375249258" />
     <state x="775" y="184" key="#scratch" timestamp="1577367159138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -122,22 +180,26 @@
     </state>
     <state x="775" y="184" key="#scratch.py/0.0.1920.1040@0.0.1920.1040" timestamp="1577367247967" />
     <state x="775" y="184" key="#scratch/0.0.1920.1040@0.0.1920.1040" timestamp="1577367159138" />
-    <state width="1060" height="279" key="GridCell.Tab.0.bottom" timestamp="1577373669514">
+    <state x="1158" y="279" key="FileChooserDialogImpl" timestamp="1577374286952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1060" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669514" />
-    <state width="1060" height="279" key="GridCell.Tab.0.center" timestamp="1577373669510">
+    <state x="1158" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577374286952" />
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom" timestamp="1577375249298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1060" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669510" />
-    <state width="1060" height="279" key="GridCell.Tab.0.left" timestamp="1577373669510">
+    <state width="1899" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577375249298" />
+    <state width="1899" height="279" key="GridCell.Tab.0.center" timestamp="1577375249298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1060" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669510" />
-    <state width="1060" height="279" key="GridCell.Tab.0.right" timestamp="1577373669510">
+    <state width="1899" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577375249298" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left" timestamp="1577375249298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1060" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669510" />
+    <state width="1899" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577375249298" />
+    <state width="1899" height="279" key="GridCell.Tab.0.right" timestamp="1577375249298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577375249298" />
     <state x="879" y="167" key="SettingsEditor" timestamp="1577374136376">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
