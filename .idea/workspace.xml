@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="983275e7-2be2-4b38-967f-4f68a1c00719" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1VWRwuGPQ8gnFiYgd2TaBVC6xgz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.neural net">
+    <configuration name="neural net" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Neural Net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ruair\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/neural net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch.py" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Neural Net" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ruair\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ruair\.PyCharmCE2019.3\config\scratches\neural net.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.neural net" />
+        <item itemvalue="Python.scratch.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="983275e7-2be2-4b38-967f-4f68a1c00719" name="Default Changelist" comment="" />
+      <created>1577367106519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577367106519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="184" key="#Neural_Net.py" timestamp="1577367233880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="184" key="#Neural_Net.py/0.0.1920.1040@0.0.1920.1040" timestamp="1577367233880" />
+    <state x="1171" y="139" key="#neural_net" timestamp="1577369240530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="139" key="#neural_net/0.0.1920.1040@0.0.1920.1040" timestamp="1577369240530" />
+    <state x="775" y="184" key="#scratch" timestamp="1577367159138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="184" key="#scratch.py" timestamp="1577367247967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="775" y="184" key="#scratch.py/0.0.1920.1040@0.0.1920.1040" timestamp="1577367247967" />
+    <state x="775" y="184" key="#scratch/0.0.1920.1040@0.0.1920.1040" timestamp="1577367159138" />
+    <state width="1060" height="279" key="GridCell.Tab.0.bottom" timestamp="1577373669514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669514" />
+    <state width="1060" height="279" key="GridCell.Tab.0.center" timestamp="1577373669510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669510" />
+    <state width="1060" height="279" key="GridCell.Tab.0.left" timestamp="1577373669510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669510" />
+    <state width="1060" height="279" key="GridCell.Tab.0.right" timestamp="1577373669510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1060" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577373669510" />
+  </component>
+</project>
